@@ -1,8 +1,5 @@
 # Employee Directory
 ## Description
-
-# Employee Directory
-## Description
 The Employee Directory is an application built using [React](https://reactjs.org/)
 
 The applicaiton is deployed through GitHub Pages through the following link: [The Employee Directory App](https://aseppala98.github.io/Employee-Directory/)
